@@ -41,5 +41,15 @@
         "letter": "assets/lyrics/03/_bass.html"
       }
     }
-  }
+  },
+  {
+    "title": "Vai Buscar",
+    "author": "*****",
+    "number": 28,
+    "voices": {
+      "single": {
+        "letter": "assets/lyrics/04/_single.html"
+      }
+    }
+}
 ]
