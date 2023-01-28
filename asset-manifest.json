@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/eprise/static/css/main.e762e527.css",
-    "main.js": "/eprise/static/js/main.0584c0c6.js",
+    "main.js": "/eprise/static/js/main.e1f92c9e.js",
     "static/js/787.1e340a20.chunk.js": "/eprise/static/js/787.1e340a20.chunk.js",
     "static/media/bass-01.mpeg": "/eprise/static/media/bass-01.444de84a61076cd097aa.mpeg",
     "static/media/soprano-01.mpeg": "/eprise/static/media/soprano-01.32168cd3c8630bfc15eb.mpeg",
@@ -42,11 +42,11 @@
     "static/media/roboto-greek-ext-700-normal.woff2": "/eprise/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/eprise/index.html",
     "main.e762e527.css.map": "/eprise/static/css/main.e762e527.css.map",
-    "main.0584c0c6.js.map": "/eprise/static/js/main.0584c0c6.js.map",
+    "main.e1f92c9e.js.map": "/eprise/static/js/main.e1f92c9e.js.map",
     "787.1e340a20.chunk.js.map": "/eprise/static/js/787.1e340a20.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e762e527.css",
-    "static/js/main.0584c0c6.js"
+    "static/js/main.e1f92c9e.js"
   ]
 }
