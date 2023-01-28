@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Deixe o Fardo",
+    "author": "Miriam Pereira",
+    "number": 1,
+    "voices": {
+      "soprano": {
+        "letter": "assets/lyrics/01/_single.html",
+        "audio": "assets/lyrics/01/_soprano.mpeg"
+      },
+      "contralto": {
+        "letter": "assets/lyrics/01/_single.html",
+        "audio": "assets/lyrics/01/_contralto.mpeg"
+      },
+      "tenor": {
+        "letter": "assets/lyrics/01/_single.html",
+        "audio": "assets/lyrics/01/_tenor.mpeg"
+      },
+      "bass": {
+        "letter": "assets/lyrics/01/_single.html",
+        "audio": "assets/lyrics/01/_bass.mpeg"
+      }
+    }
+  },
+  {
+    "title": "A espera de Jesus",
+    "author": "Ozéias de Paula",
+    "number": 2,
+    "voices": {
+      "bass": {
+        "letter": "assets/lyrics/02/_bass.html"
+      }
+    }
+  }
+]
