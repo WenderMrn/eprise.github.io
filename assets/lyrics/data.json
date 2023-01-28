@@ -31,5 +31,15 @@
         "letter": "assets/lyrics/02/_bass.html"
       }
     }
+  },
+  {
+    "title": "Vou Cantar",
+    "author": "*****",
+    "number": 46,
+    "voices": {
+      "bass": {
+        "letter": "assets/lyrics/03/_bass.html"
+      }
+    }
   }
 ]
