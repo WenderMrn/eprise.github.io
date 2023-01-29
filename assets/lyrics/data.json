@@ -16,18 +16,18 @@
         "letter": "assets/lyrics/01/_single.html",
         "audio": "assets/lyrics/01/_tenor.mpeg"
       },
-      "bass": {
+      "baixo": {
         "letter": "assets/lyrics/01/_single.html",
         "audio": "assets/lyrics/01/_bass.mpeg"
       }
     }
   },
   {
-    "title": "A espera de Jesus",
+    "title": "A Espera de Jesus",
     "author": "Ozéias de Paula",
     "number": 2,
     "voices": {
-      "bass": {
+      "baixo": {
         "letter": "assets/lyrics/02/_bass.html"
       }
     }
@@ -37,7 +37,7 @@
     "author": "*****",
     "number": 46,
     "voices": {
-      "bass": {
+      "baixo": {
         "letter": "assets/lyrics/03/_bass.html"
       }
     }
@@ -47,8 +47,21 @@
     "author": "*****",
     "number": 28,
     "voices": {
-      "single": {
-        "letter": "assets/lyrics/04/_single.html"
+      "soprano": {
+        "letter": "assets/lyrics/04/_single.html",
+        "audio": "assets/lyrics/04/_soprano.mpeg"
+      },
+      "contralto": {
+        "letter": "assets/lyrics/04/_single.html",
+        "audio": "assets/lyrics/04/_contralto.mpeg"
+      },
+      "tenor": {
+        "letter": "assets/lyrics/04/_single.html",
+        "audio": "assets/lyrics/04/_tenor.mpeg"
+      },
+      "baixo": {
+        "letter": "assets/lyrics/04/_single.html",
+        "audio": "assets/lyrics/04/_bass.mpeg"
       }
     }
 }
