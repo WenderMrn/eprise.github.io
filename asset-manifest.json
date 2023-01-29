@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/eprise.github.io/static/css/main.36fd473f.css",
-    "main.js": "/eprise.github.io/static/js/main.27adbd8a.js",
+    "main.js": "/eprise.github.io/static/js/main.2f94cd58.js",
     "static/js/787.1e340a20.chunk.js": "/eprise.github.io/static/js/787.1e340a20.chunk.js",
     "static/media/roboto-all-500-normal.woff": "/eprise.github.io/static/media/roboto-all-500-normal.0ab669b7a0d19b178f57.woff",
     "static/media/roboto-all-700-normal.woff": "/eprise.github.io/static/media/roboto-all-700-normal.a457fde362a540fcadff.woff",
@@ -38,11 +38,11 @@
     "static/media/roboto-greek-ext-700-normal.woff2": "/eprise.github.io/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/eprise.github.io/index.html",
     "main.36fd473f.css.map": "/eprise.github.io/static/css/main.36fd473f.css.map",
-    "main.27adbd8a.js.map": "/eprise.github.io/static/js/main.27adbd8a.js.map",
+    "main.2f94cd58.js.map": "/eprise.github.io/static/js/main.2f94cd58.js.map",
     "787.1e340a20.chunk.js.map": "/eprise.github.io/static/js/787.1e340a20.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.36fd473f.css",
-    "static/js/main.27adbd8a.js"
+    "static/js/main.2f94cd58.js"
   ]
 }
