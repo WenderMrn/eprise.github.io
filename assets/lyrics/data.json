@@ -37,11 +37,11 @@
     "author": "*****",
     "number": 46,
     "voices": {
-      "baixo": {
-        "letter": "assets/lyrics/03/_bass.html"
-      },
       "contralto": {
         "letter": "assets/lyrics/03/_contralto.html"
+      },
+      "baixo": {
+        "letter": "assets/lyrics/03/_bass.html"
       }
     }
   },
